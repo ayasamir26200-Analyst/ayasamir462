@@ -1,46 +1,72 @@
-# ayasamir462
-<div align="center">
+# Hi, I'm Aya Samir 👋
 
-# Aya Samir 👋
+📊 Aspiring Data Analyst
 
-### Aspiring Data Analyst 📊
+I'm a Computer Science student interested in Data Analysis and turning raw data into meaningful insights.
 
-*Turning Data into Meaningful Insights*
-
-Excel | SQL | Power BI | Python (Learning)
-
-</div>
+I enjoy working with data, creating dashboards, finding patterns, and presenting insights in a clear way.
 
 ---
 
-## 👩‍💻 About Me
+## 🛠 Skills & Tools
 
-Hi! I'm Aya Samir, a Computer Science student
-interested in Data Analysis.
-
-I enjoy working with data, creating dashboards,
-finding patterns, and presenting insights.
-
-## 🛠️ Skills & Tools
-
-- 📊 Excel
-- 🗄️ SQL
-- 📈 Power BI
-- 🐍 Python (Currently Learning)
+- 📗 Excel
+- 🗄 SQL
+- 📊 Power BI
+- 🐍 Python — Currently Learning
 - 🧹 Data Cleaning
-- 📊 Data Visualization
+- 📈 Data Visualization
+- 🔎 Data Analysis
 
-## 📂 My Projects
+---
 
-- Superstore Sales & Profit Analysis | Power BI
-- Teddy Bear Sales Analysis | Power BI
-- E-commerce Data Analysis | SQL
-- Sales Analysis | Excel
+## 📌 Featured Projects
+
+### 📊 Superstore Sales & Profit Dashboard
+Power BI
+- Sales and profit analysis
+- KPI cards
+- Regional performance
+- Sales trends and visualizations
+
+### 🧸 Teddy Bear Sales Analysis
+Power BI
+- Revenue and order analysis
+- Website traffic analysis
+- Traffic source analysis
+- Funnel analysis
+
+### 🛒 E-Commerce Sales Analysis
+SQL
+- Customer and product analysis
+- Orders and sales analysis
+- SQL queries for business insights
+
+### 📈 Sales Analysis
+Excel
+- Pivot Tables
+- Sales analysis
+- Regional and salesperson performance
+
+---
+
+## 🌱 Currently Learning
+
+🐍 Python for Data Analysis
+
+I'm also working on building more real-world Data Analysis projects and improving my analytical skills.
+
+---
+
+## 🎯 My Goal
+
+To build a strong portfolio in Data Analysis and use data to support better business decisions.
+
+---
 
 ## 📫 Connect With Me
 
-- LinkedIn: [My LinkedIn](YOUR_LINKEDIN_LINK)
+- 💼 [LinkedIn](https://linkedin.com/in/aya-samir-22aa4b355)
+- 🐙 [GitHub](https://github.com/ayasamir125)
 
----
-
-⭐ Thanks for visiting my profile!
+⭐ Feel free to explore my repositories and projects!
