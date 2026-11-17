@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="photo_2026-09-28_11-16-05.jpg" width="100%">
+
+</div>
+
 # Hi, I'm Aya Samir 👋
 
 📊 Aspiring Data Analyst
