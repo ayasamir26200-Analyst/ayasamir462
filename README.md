@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="C:\Users\mr\Pictures" width="100%">
+<img src="photo_2026-11-17_13-54-51.jpg" width="100%">
 
 </div>
 
